@@ -1,5 +1,3 @@
-(https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/crate/hero-with-link.png)
-
 
 ## Features
 - Modular and easily scalable code structure
