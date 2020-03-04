@@ -28,19 +28,19 @@
 Click on image to view fullscreen and zoom
 
 ### Desktop
-[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/master/images/crate/desktop-all-with-link.png)
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/desktop-all-with-link)
 
 ![Crate Desktop](https://github.com/eliteevince/Urban-Shop/blob/master/images/crate/desktop-all-with-link.png)
 
 ### Mobile
-[IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/mobile-all-with-link.png) · [GIF](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/mobile.gif)
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/mobile-all-with-link.png) 
 
-![Crate Mobile](https://github.com/eliteevince/Urban-Shop/blob/master/images/crate/mobile-all-with-link.png)
+![Crate Mobile](https://github.com/eliteevince/Urban-Shop/blob/mobile-all-with-link.png)
 
 ### Tablet
-[IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/tablet-all-with-link.png) · [GIF](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/tablet.gif)
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/tablet-all-with-link)
 
-![Crate Tablet](https://github.com/eliteevince/Urban-Shop/blob/master/images/crate/tablet-all-with-link.png)
+![Crate Tablet](https://github.com/eliteevince/Urban-Shop/blob/tablet-all-with-link)
 
 
 ## Core Structure
