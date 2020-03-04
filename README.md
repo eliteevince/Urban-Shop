@@ -28,19 +28,19 @@
 Click on image to view fullscreen and zoom
 
 ### Desktop
-[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/desktop-all-with-link)
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/master/blob/desktop-all-with-link)
 
-![Crate Desktop](https://github.com/eliteevince/Urban-Shop/blob/desktop-all-with-link.png)
+![Crate Desktop](https://github.com/eliteevince/Urban-Shop/blob/master/blob/desktop-all-with-link.png)
 
 ### Mobile
-[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/mobile-all-with-link.png) 
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/master/blob/mobile-all-with-link.png) 
 
-![Crate Mobile](https://github.com/eliteevince/Urban-Shop/blob/mobile-all-with-link.png)
+![Crate Mobile](https://github.com/eliteevince/Urban-Shop/blob/master/blob/mobile-all-with-link.png)
 
 ### Tablet
-[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/tablet-all-with-link)
+[IMAGE](https://github.com/eliteevince/Urban-Shop/blob/master/blob/tablet-all-with-link)
 
-![Crate Tablet](https://github.com/eliteevince/Urban-Shop/blob/tablet-all-with-link)
+![Crate Tablet](https://github.com/eliteevince/Urban-Shop/blob/master/blob/tablet-all-with-link)
 
 
 ## Core Structure
