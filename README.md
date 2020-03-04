@@ -30,7 +30,7 @@ Click on image to view fullscreen and zoom
 ### Desktop
 [IMAGE](https://github.com/eliteevince/Urban-Shop/blob/desktop-all-with-link)
 
-![Crate Desktop](https://github.com/eliteevince/Urban-Shop/blob/master/images/crate/desktop-all-with-link.png)
+![Crate Desktop](https://github.com/eliteevince/Urban-Shop/blob/desktop-all-with-link.png)
 
 ### Mobile
 [IMAGE](https://github.com/eliteevince/Urban-Shop/blob/mobile-all-with-link.png) 
